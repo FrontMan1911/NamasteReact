@@ -1,0 +1,22 @@
+{
+  "name": "react-akshay-saini",
+  "version": "1.0.0",
+  "description": "This is namaste react by akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontMan1911/NamasteReact.git"
+  },
+  "keywords": [
+    "React-Deepak"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontMan1911/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/FrontMan1911/NamasteReact#readme"
+}
