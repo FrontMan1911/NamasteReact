@@ -1,0 +1,136 @@
+.appHeadername {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.imageclassname {
+  width: 150px;
+  height: 100px;
+}
+
+.navlistcontainer > ul {
+  font-size: 20px;
+  list-style-type: none;
+  display: flex;
+}
+
+.navlistcontainer > ul > li {
+  margin: 5px;
+  padding: 5px;
+}
+
+.appsearchName {
+  justify-content: center;
+  margin: 2px;
+  padding-top: 2%;
+  display: flex;
+}
+
+.appbodyname {
+  border-bottom: .5px solid #000;
+  border-left: .5px solid #000;
+  border-right: .5px solid #000;
+  padding: 5px;
+}
+
+.carditemsname {
+  width: auto;
+  height: 50%;
+  margin: 5px;
+  padding: 5px;
+}
+
+.ImageSectionname {
+  width: 100%;
+  height: 50%;
+}
+
+.ImageSectionname img {
+  width: 50%;
+  height: 50%;
+}
+
+.ImageContainer {
+  width: 100%;
+  height: 100%;
+}
+
+.ImageDetailSection {
+  justify-content: leftmar;
+  background: #adff2f;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.CardConatinerHold {
+  flex-wrap: wrap;
+  padding: 10px;
+  display: flex;
+}
+
+.carditemsname {
+  transition: all .3s;
+  box-shadow: 0 4px 8px #0003;
+}
+
+.carditemsname:hover {
+  box-shadow: 0 8px 16px #0003;
+}
+
+.ImageContainer {
+  padding: 2px 16px;
+}
+
+.Shimmarcard {
+  background-color: #fff;
+  border-radius: 6px;
+  width: 350px;
+  height: 500px;
+  margin: 40px auto;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 6px 8px #0000001a;
+}
+
+.m-t-24 {
+  margin-top: 24px;
+}
+
+.user-card {
+  text-align: center;
+  max-width: 300px;
+  margin: 5px;
+  padding: 5px;
+  box-shadow: 0 4px 8px #0003;
+}
+
+.user-title {
+  color: gray;
+  font-size: 18px;
+}
+
+.user-button {
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  background-color: #000;
+  border: none;
+  outline: 0;
+  width: 100%;
+  padding: 8px;
+  font-size: 18px;
+  display: inline-block;
+}
+
+a {
+  color: #000;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+button:hover, a:hover {
+  opacity: .7;
+}
+
+/*# sourceMappingURL=index.086958e1.css.map */

@@ -4,7 +4,9 @@
   "description": "This is namaste react by akshay saini",
   "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,15 @@
   },
   "homepage": "https://github.com/FrontMan1911/NamasteReact#readme",
   "dependencies": {
-    "parcel": "^2.9.3"
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "@parcel/transformer-css": {
+    "errorRecovery": true
   }
 }
